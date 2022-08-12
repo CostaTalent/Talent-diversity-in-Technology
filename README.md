@@ -1,0 +1,3 @@
+# Talent-diversity-in-Technology
+Data base of developers, coders, software and hardware engineers, programmers and more...
+[database.xlsx](https://github.com/CostaTalent/Talent-diversity-in-Technology/files/9329948/database.xlsx)
